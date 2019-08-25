@@ -1,0 +1,40 @@
+{
+    "name": "staplegun/quotes",
+    "description": "A starter quote",
+    "type": "craft-plugin",
+    "version": "1.0.0",
+    "keywords": [
+        "craft",
+        "cms",
+        "craftcms",
+        "craft-plugin",
+        "quotes"
+    ],
+    "support": {
+        "docs": "https://github.com/https://github.com/emukupa/quotes/quotes/blob/master/README.md",
+        "issues": "https://github.com/https://github.com/emukupa/quotes/quotes/issues"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Staplegun",
+            "homepage": "https://staplegun.us/"
+        }
+    ],
+    "require": {
+        "craftcms/cms": "^3.0.0-RC1"
+    },
+    "autoload": {
+        "psr-4": {
+          "staplegun\\quotes\\": "src/"
+        }
+    },
+    "extra": {
+        "name": "quotes",
+        "handle": "quotes",
+        "hasCpSettings": false,
+        "hasCpSection": false,
+        "changelogUrl": "https://raw.githubusercontent.com/https://github.com/emukupa/quotes/quotes/master/CHANGELOG.md",
+        "class": "staplegun\\quotes\\Quotes"
+    }
+}
