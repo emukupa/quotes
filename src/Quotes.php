@@ -5,10 +5,10 @@
  * A starter quote
  *
  * @link      https://staplegun.us/
- * @copyright Copyright (c) 2019 Staplegun
+ * @copyright Copyright (c) 2019 Edward Manda
  */
 
-namespace staplegun\quotes;
+namespace emukupa\quotes;
 
 
 use Craft;
@@ -28,7 +28,7 @@ use yii\base\Event;
  *
  * https://craftcms.com/docs/plugins/introduction
  *
- * @author    Staplegun
+ * @author    Edward Manda
  * @package   Quotes
  * @since     1.0.0
  *

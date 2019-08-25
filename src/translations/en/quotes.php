@@ -5,7 +5,7 @@
  * A starter quote
  *
  * @link      https://staplegun.us/
- * @copyright Copyright (c) 2019 Staplegun
+ * @copyright Copyright (c) 2019 Edward Manda
  */
 
 /**
@@ -16,7 +16,7 @@
  *
  * http://www.yiiframework.com/doc-2.0/guide-tutorial-i18n.html
  *
- * @author    Staplegun
+ * @author    Edward Manda
  * @package   Quotes
  * @since     1.0.0
  */
